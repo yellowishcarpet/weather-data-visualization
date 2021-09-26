@@ -1,5 +1,5 @@
 # Weather data visualization
-  - Program to visualize historical weather data and Meteo.lt API data.
+  - Program to visualize **historical weather** data and **Meteo.lt API** data.
   - Dynamic for all screen sizes, all parameters changes are displayed instantly
   - Multiple parameters to visualize (maxtemp, totalsnow_cm, sunrise...)
   - Implemented https://api.meteo.lt/ API and visualizes its given data. 
