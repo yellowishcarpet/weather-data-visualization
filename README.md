@@ -6,7 +6,7 @@
 
 # Tools
   - Created using Python 
-  - Data visualizion is done with **Dash** by plotly framework
+  - Data visualization is done with **Dash** by plotly framework
   - Data manipulation is done with **Pandas** framework
 
 # Showcase
