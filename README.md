@@ -2,7 +2,7 @@
   - Program to visualize historical weather data and Meteo.lt API data.
   - Dynamic for all screen sizes, all parameters changes are displayed instantly
   - Multiple parameters to visualize (maxtemp, totalsnow_cm, sunrise...)
-  - Connected with https://api.meteo.lt/ API and visualizes its given data. 
+  - Implemented https://api.meteo.lt/ API and visualizes its given data. 
 
 # Tools
   - Created using Python 
